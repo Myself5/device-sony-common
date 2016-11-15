@@ -120,6 +120,7 @@ PRODUCT_PACKAGES += \
     libmmcamera_interface \
     libmmjpeg_interface \
     libmm-qcamera \
+		test
     libprotobuf-cpp-full \
     libqomx_core
 
